@@ -1,5 +1,5 @@
 # EX3 Write a program to count the number of digits in an integer.
-## DATE: 10/11/25
+## DATE: 11/11/25
 ## AIM:
 To write a C program to implement Tower of Hanoi
 
@@ -15,8 +15,8 @@ To write a C program to implement Tower of Hanoi
 
 ## Program:
 
-Developed by: V MYTHILI 
-RegisterNumber:  212223040123
+Developed by: Selshiya F 
+RegisterNumber:  212224060241
 
 ```
 import java.util.Scanner;
